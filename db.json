@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "MASAI School",
+      "email": "hello@masai.com",
+      "password": "1111",
+      "username": "masai-school",
+      "mobile": "9876543210",
+      "description": "A Transformation in education!"
+    },
+    {
+      "name": "Abhi",
+      "email": "abhi@masai.com",
+      "password": "1111",
+      "username": "Abhi",
+      "mobile": "9876543210",
+      "description": "A Transformation in education!"
+    },
+    {
+      "name": "John",
+      "email": "john@masai.com",
+      "password": "1111",
+      "username": "John",
+      "mobile": "9876543210",
+      "description": "A Transformation in education!"
+    }
+  ]
+}
