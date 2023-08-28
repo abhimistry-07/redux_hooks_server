@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "MASAI School",
       "email": "hello@masai.com",
       "password": "1111",
@@ -9,6 +10,7 @@
       "description": "A Transformation in education!"
     },
     {
+      "id": 2,
       "name": "Abhi",
       "email": "abhi@masai.com",
       "password": "1111",
@@ -17,6 +19,7 @@
       "description": "A Transformation in education!"
     },
     {
+      "id": 3,
       "name": "John",
       "email": "john@masai.com",
       "password": "1111",
